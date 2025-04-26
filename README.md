@@ -5,7 +5,7 @@ In this project, I'll be taking publicly available data, to find the information
 
 - **Person information**: Where I'll be conducting an investigation on a fraudster's phone number To find names, associated accounts, pictures and uncovering the scammer's entire digital footprint
 
-- 
+- **Threat Intelligence** In this domain, I'll be taking advantage of a wide range of open source information to uncover details about high profile threats and threat actors.
 
 -
 
